@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "homepage": "https://YOUR_USERNAME.github.io/aura-risk-genie"
+
+    "gh-pages": "^6.3.0"
+  }
+}
